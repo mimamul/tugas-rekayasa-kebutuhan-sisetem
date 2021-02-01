@@ -1,4 +1,6 @@
 # tugas-rekayasa-kebutuhan-sisetem
+source code nya :
+
 package com.company;
 import java.util.Scanner;
 public class Main {
